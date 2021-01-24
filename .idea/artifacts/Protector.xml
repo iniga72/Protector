@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Protector">
+    <output-path>$PROJECT_DIR$/../сборка/plugins</output-path>
+    <root id="archive" name="Protector.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/resorses" />
+      <element id="module-output" name="est" />
+    </root>
+  </artifact>
+</component>
